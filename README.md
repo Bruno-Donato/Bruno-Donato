@@ -1,4 +1,6 @@
-### Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://www.linkedin.com/in/bruno-de-sousa-donato/) [![Portfolio](https://img.shields.io/badge/Streamlit-Portfolio-blue.svg)](https://bruno-donato-portfolio-data-science.streamlit.app/)
+
+### Olá 👋 Bem Vindo ao meu repositório
 
 <!--
 **Bruno-Donato/Bruno-Donato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
