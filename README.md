@@ -5,7 +5,7 @@ Olá! Obrigado pela visita.
 Sou cientista de dados, atualmente prestando serviços como consultor e freelance.<br>
 Meu principal objetivo é fazer a ponte entre tecnologia e pequenos empreendedores e comercios, entregando soluções para seus problemas e extraindo valor de seus dados e recursos de maneira simples, prática e acessível.
 
-- 🔭 Atualmente trabalhando em gerenciamento, analise e visualização de dados e pequenos negócios 
+- 🔭 Atualmente trabalhando em gerenciamento, analise e visualização de dados em pequenos negócios 
 - 🌱 Atualmente aprendendo deep learning e visão computacional
 - 👯 Interessado em colaborar com projetos de aprendizado supervisionado e não supervisionado
 - 💬 Me pergunte sobre: dados, música e cachorros
