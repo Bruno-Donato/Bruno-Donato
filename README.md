@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://www.linkedin.com/in/bruno-de-sousa-donato/) [![Portfolio](https://img.shields.io/badge/Streamlit-Portfolio-blue.svg)](https://bruno-donato-portfolio-data-science.streamlit.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://www.linkedin.com/in/bruno-de-sousa-donato/) [![Portfolio](https://img.shields.io/badge/Streamlit-Portfolio-blue.svg)](https://bruno-donato-portfolio-datascience.streamlit.app/)
 
 ### Bem Vindo ao meu repositório
 Olá! Obrigado pela visita.
