@@ -14,6 +14,7 @@ Meu principal objetivo é fazer a ponte entre tecnologia e pequenos empreendedor
 ### 🛠️ Linguagens e Ferramentas:
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Logo" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium Logo" width="40" height="40"/> <img src="https://github.com/pycaret/pycaret/blob/master/docs/images/logo.png" alt="PyCaret Logo" width="200" height="40"/>
+<img src="https://camo.githubusercontent.com/b4dc361b08d4603a035f90d3feaa9b42c67dbdfef817668fbd2fa68796569a70/68747470733a2f2f68756767696e67666163652e636f2f66726f6e742f6173736574732f68756767696e67666163655f6c6f676f2d6e6f626f726465722e737667" alt="HugginFace" width="45" height="45"/>
 
 <!--
 **Bruno-Donato/Bruno-Donato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
